@@ -13,9 +13,9 @@ const c_count_product = product_1.count_product ;
 const c_price_product = product_1.price_product ;
 
 console.log(
-    'รหัสสินค้า :>', c_id_product, 
-    'ชื่อสินค้า :>', c_name_product, 
-    'รายละเอียดสินค้า :>', c_detail_product , 
-    'จำนวนสินค้า :>', c_count_product ,
-    'ราคาสินค้า :>', c_price_product ,
+    'รหัสสินค้า ::>', c_id_product, 
+    'ชื่อสินค้า ::>', c_name_product, 
+    'รายละเอียดสินค้า ::>', c_detail_product , 
+    'จำนวนสินค้า ::>', c_count_product ,
+    'ราคาสินค้า ::>', c_price_product ,
 ) ;
