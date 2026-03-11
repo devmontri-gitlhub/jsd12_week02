@@ -1,0 +1,1 @@
+SELECT name, price FROM MenuItems ORDER BY price ASC LIMIT 3;
